@@ -20,7 +20,7 @@ git clone https://github.com/ClaudiaSSL/My-To-Do-List.git
     
 ## frontend
 
-    > cd My-To-Do-List/frontend/Vuejs&Flask&DynamicTable
+    > cd My-To-Do-List/frontend
     > npm install
     > npm run dev
 
